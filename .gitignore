@@ -1,0 +1,6 @@
+jenkins/.env
+jenkins/secrets/
+app/test-results.xml
+__pycache__/
+.env
+.venv/
